@@ -1,7 +1,7 @@
 ID,Area Category,Rank Area Category,Nama Daerah,Luas Tanah (m2),Luas Bangunan (m2),Jumlah Kamar,Jumlah Km Mandi,Tingkat/Lantai,Harga rata2 Komunitas,Harga Dipasarkan (dari Owner),Harga Terjual,Terjual/Belum,Encode Terjual/Belum,Status Kepemilikan,Rank Status Kepemilikan,Arah Hadap Rumah,Rank Arah Hadap Rumah,Posisi Rumah,Rank Posisi Rumah,Lebar Jalan Depan Rumah (ROW),Pemilik Butuh Uang (Urgent),Encode Butuh Uang,Umur Bangunan,Siap Huni (Y/N),Furnish  (Y/N),Encode Furnish,Listed Berapa Lama,Encode Listed,Pasar,Sekolah,"Faskes/
 Rumah Sakit",Mall,Tempat Ibadah,Makam,Club House,Transportasi Umum,Jalan Raya Utama
-,Premium,3,Northwest Lake,72.00,69.00,2,2,2.00,1400000000,1350000000,0,Belum,"
-",Hak Guna Bangunan (HGB),4,Selatan,3,Standard,6,1-2 Mobil,No,0,1 - 4 Tahun,Yes,No,0,2020,20,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes
+,Premium,3,Northwest Lake,72.00,69.00,2,2,2.00,1400000000,1350000000,0,Belum,0
+,Hak Guna Bangunan (HGB),4,Selatan,3,Standard,6,1-2 Mobil,No,0,1 - 4 Tahun,Yes,No,0,2020,20,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes
 ,Standard,2,Bukit Palma,60.00,90.00,3,2,2.00,1000000000,1125000000,0,Belum,0,Pengikatan Perjanjian Jual Beli (PPJB),3,Selatan,3,Standard,6,1-2 Mobil,No,0,1 - 4 Tahun,Yes,No,0,2020,20,Yes,Yes,Yes,No,Yes,No,No,No,Yes
 ,Standard,2,Palma Classica,210.00,100.00,4,2,1.00,2400000000,1999000000,0,Belum,0,Hak Milik (SHM),5,Utara,2,Standard,6,> 2 Mobil,Yes,1,5 - 10 Tahun,Yes,No,0,2020,20,Yes,Yes,Yes,No,Yes,No,No,No,Yes
 ,Standard,2,Bukit Palma,120.00,54.00,3,1,1.00,800000000,850000000,0,Belum,0,Hak Milik (SHM),5,Selatan,3,Standard,6,> 2 Mobil,No,0,> 10 Tahun,No,No,0,2020,20,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
