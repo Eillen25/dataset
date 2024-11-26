@@ -1,0 +1,300 @@
+,Customer,Location,Order,Quantity,Date,Vendor,Harga,Kategori
+0,Ang lovina,wsa2 12b,nasi paket ayam madu scramble egg,1,19-Nov-2024,Vege,18,makananBerat
+1,Ang lovina,wsa2 12b,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+2,Ana,wsa 2 lt 5,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+3,Ana,wsa 2 lt 5,sup pangsit isi,1,19-Nov-2024,Vege,18,snack
+4,Eva,Wsa2 Lt. 5,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+5,Yuli,wsa 1 lt 20,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+6,Giva,wsa2,kimbab chicken,1,19-Nov-2024,Vege,18,makananBerat
+7,Dhoni,wsa 1 lt.20,nasi goreng kecombrang,1,19-Nov-2024,Vege,18,makananBerat
+8,Dhoni,wsa 1 lt.20,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+9,Ratna,-,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+10,Livi,-,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+11,Felyn,wsa2 lt 9,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+12,Paula,wsa2 12a,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+13,Diana,wsa 1 Lt. 19,kimbab chicken,1,19-Nov-2024,Vege,18,makananBerat
+14,April,wsa 2 lt 9,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+15,April,wsa 2 lt 9,nasi paket ayam madu scramble egg,1,19-Nov-2024,Vege,18,makananBerat
+16,Elisa,wsa2 lt 8,nasi hainan ayam kecap,1,19-Nov-2024,Vege,18,makananBerat
+17,Dini,wsa 2 lt 5,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+18,Ayunda,wsa 2 lt5,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+19,Loly,wsa 2 lt 5,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+20,Juan,wsa2,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+21,Fanny,-,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+22,Yova,wsa 2 lt5,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+23,Floretta,-,catering nasi merah,1,19-Nov-2024,Vege,18,makananBerat
+24,Floretta,-,paket ayam madu scramble egg (tanpa nasi),1,19-Nov-2024,Vege,18,makananBerat
+25,Rhei,-,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+26,Lidia,WSA1,paket ayam madu scramble egg,1,19-Nov-2024,Vege,18,makananBerat
+27,Lidia,WSA1,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+28,Ruth,WSA 2 lt. 5,kimbab chicken gojujang,1,19-Nov-2024,Vege,18,makananBerat
+29,Ruth,WSA 2 lt. 5,batagor vegan komplit,1,19-Nov-2024,Vege,18,snack
+30,Suni,Wsa2,nasi + dadar + buncis ongseng cabe ijo,1,19-Nov-2024,Vege,18,makananBerat
+31,Dwizky,WSA2 Lt11,Menu Catering,1,18-Nov-2024,Vege,18,makananBerat
+32,Dwizky,WSA2 Lt11,Nasi Bakar Ayam Kemangi Vegan,1,18-Nov-2024,Vege,18,makananBerat
+33,Suni,WSA2,Nasi Putih + Sup Oyong Soun + Fuyunghai (Tanpa Saos),1,18-Nov-2024,Vege,18,makananBerat
+34,Ratna,-,Nasi Putih + Sup Oyong Soun + Puyunghai (Saos Pisah),1,18-Nov-2024,Vege,18,makananBerat
+35,Suwito,-,Tahu Gejrot,1,18-Nov-2024,Vege,12,snack
+36,April,-,Tahu Gejrot Komplit (Cireng Diganti Tahu),1,18-Nov-2024,Vege,12,snack
+37,Jessica,WSA2 Lt5,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+38,Krisna,WSA2 Lt12B,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+39,MCS,WSA2 Lt12B,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+40,MCS,WSA2 Lt12B,Healthy Food Sapi,1,18-Nov-2024,Yosnacks,30,makananBerat
+41,Willy,WSA2 Lt12A,Kuotie Panggang,2,18-Nov-2024,Yosnacks,15,snack
+42,Willy,WSA2 Lt12A,Bakmi Lebar,1,18-Nov-2024,Yosnacks,15,makananBerat
+43,Syerly,WSA2,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+44,Syerly,WSA2,Combo Ayam Maranggi,1,18-Nov-2024,Yosnacks,20,makananBerat
+45,Yova,WSA2 Lt5,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+46,Lia,WSA2,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,makananBerat
+47,Lia,WSA2,Combo Ayam Maranggi,1,18-Nov-2024,Yosnacks,20,snack
+48,Dea,WSA2 Lt5,Kuotie Panggang,2,18-Nov-2024,Yosnacks,15,snack
+49,Giva,WSA2,Combo Ayam Geprek,1,18-Nov-2024,Yosnacks,20,makananBerat
+50,Giva,WSA2,Cemilan Rebusan,1,18-Nov-2024,Yosnacks,15,snack
+51,Alvin,WSA2 Lt11,Nasi Goreng Smoked Beef + Telur Ceplok + Rawit Giling Pisah,1,18-Nov-2024,Yosnacks,20,makananBerat
+52,WLN,-,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+53,WLN,-,Bakmi Lebar,1,18-Nov-2024,Yosnacks,15,makananBerat
+54,WLN,-,Bakso Goreng,1,18-Nov-2024,Yosnacks,5,snack
+55,ZIA,-,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+56,ZIA,-,Healthy Food Ayam,1,18-Nov-2024,Yosnacks,25,makananBerat
+57,ZIA,-,Healthy Food Sapi,1,18-Nov-2024,Yosnacks,30,makananBerat
+58,Mus,-,Combo Ayam Maranggi,1,18-Nov-2024,Yosnacks,20,makananBerat
+59,Kevin,WSA2 Lt12A,Nasi Ayam Cabe Garam,1,18-Nov-2024,Yosnacks,20,makananBerat
+60,Vira,WSA2 Lt5,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+61,Vira,WSA2 Lt5,Nasi Goreng Smoked Beef + Telur Dadar,1,18-Nov-2024,Yosnacks,20,makananBerat
+62,Victor,WSA2 Lt12A,Kuotie Panggang,2,18-Nov-2024,Yosnacks,15,snack
+63,Loly,WSA2 Lt5,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+64,Eva,WSA2 Lt5,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+65,Detta,WSA2,Combo Ayam Maranggi,1,18-Nov-2024,Yosnacks,20,makananBerat
+66,Yulia,WSA2 Lt16,Combo Ayam Maranggi,1,18-Nov-2024,Yosnacks,20,makananBerat
+67,Yulia,WSA2 Lt16,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+68,Ratna,-,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+69,Ratna,-,Nasi + Cah Kangkung + Telur Dadar,1,18-Nov-2024,Yosnacks,20,makananBerat
+70,Bhetrand,WSA2 Lt12A,Nasgor Smoked Beef + Telur Dadar (Tidak Pedas),1,18-Nov-2024,Yosnacks,20,makananBerat
+71,Bhetrand,WSA2 Lt12A,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+72,Dini,WSA2 Lt5,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+73,Hvi,-,Bakmie Kecil,1,18-Nov-2024,Yosnacks,15,snack
+74,Floretta,-,Healthy Food Ayam,1,18-Nov-2024,Yosnacks,25,makananBerat
+75,Floretta,-,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+76,Floretta,-,Ayam Fillet Ala Carte Sambal Bawang (Dipisah),1,18-Nov-2024,Yosnacks,20,makananBerat
+77,Rhei,WSA2 Lt5,Combo Ayam Maranggi (Tanpa Sambal),1,18-Nov-2024,Yosnacks,20,makananBerat
+78,Adi,WSA2 Lt12A,Combo Sambal Cumi,1,18-Nov-2024,Yosnacks,25,makananBerat
+79,Adi,WSA2 Lt12A,Combo Ayam Geprek,1,18-Nov-2024,Yosnacks,20,makananBerat
+80,Albert,WSA2 Lt12A,Combo Ayam Maranggi,1,18-Nov-2024,Yosnacks,20,makananBerat
+81,Juan,WSA2,Kuotie Panggang,2,18-Nov-2024,Yosnacks,15,snack
+82,Anas,WSA2 Lt5,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+83,Suwito,WSA2,Bakmi Kecil,1,18-Nov-2024,Yosnacks,15,snack
+84,Suwito,WSA2,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+85,Stevani,WSA2 Lt16,Hekeng Frozen,1,18-Nov-2024,Yosnacks,30,snack
+86,Fiah,-,Bakso Goreng,2,18-Nov-2024,Yosnacks,5,snack
+87,Halimah,-,Bakso Goreng,2,18-Nov-2024,Yosnacks,5,snack
+88,Ica,-,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+89,Fanny,-,Kuotie Panggang,1,18-Nov-2024,Yosnacks,15,snack
+90,Tina,wsa2,Dori&chips,1,19-Nov-2024,Yosnacks,35,makananBerat
+91,Giva,wsa2,Katsu&chips,1,19-Nov-2024,Yosnacks,30,makananBerat
+92,Chyn,WSA2 lt.10,Dori&chips,1,19-Nov-2024,Yosnacks,35,makananBerat
+93,MCS 12B,WSA 2,Nasgor butter ikan salmon,1,19-Nov-2024,Yosnacks,20,makananBerat
+94,MCS 12B,WSA 2,Combo fillet,1,19-Nov-2024,Yosnacks,20,makananBerat
+95,Bhetrand,wsa2 12a,Nasi nuget cabe garam,1,19-Nov-2024,Yosnacks,20,makananBerat
+97,Yulia,wsa2 16,Katsu&chips,1,19-Nov-2024,Yosnacks,30,makananBerat
+99,Adi,wsa2 12a,Combo luncheon,1,19-Nov-2024,Yosnacks,20,makananBerat
+100,Rose,wsa2,Combo luncheon,1,19-Nov-2024,Yosnacks,20,makananBerat
+101,Albert,wsa2 lt12a,Combo luncheon,1,19-Nov-2024,Yosnacks,20,makananBerat
+102,Raymond,wsa2 lt 12a,Nasi Lunchon panggang,1,19-Nov-2024,Yosnacks,20,makananBerat
+106,Valen,wsa2 lt12a,Katsu&chips,1,19-Nov-2024,Yosnacks,30,makananBerat
+107,She,wsa2 12a,Healthy food,1,19-Nov-2024,Yosnacks,25,makananBerat
+108,NCW,wsa2 12a,Nasi goreng butter salmon,1,19-Nov-2024,Yosnacks,30,makananBerat
+110,ZIA,WSA2 12B,Nasi goreng butter salmon,1,19-Nov-2024,Yosnacks,20,makananBerat
+111,ZIA,WSA2 12B,Healthy food,1,19-Nov-2024,Yosnacks,25,makananBerat
+112,Winardi,wsa 1 lt 8,Nasi Kuning,1,19-Nov-2024,Mamamou,25,makananBerat
+113,Verlyn,wsa 1 lt 8,Nasi Kuning,1,19-Nov-2024,Mamamou,25,makananBerat
+114,Vero,wsa 1 lt 8,Nasi Kuning,2,19-Nov-2024,Mamamou,25,makananBerat
+115,Angel,wsa 1 lt 8,Nasi Kuning,1,19-Nov-2024,Mamamou,25,makananBerat
+116,Audrey,wsa 1 lt 8,Nasi Kuning,1,19-Nov-2024,Mamamou,25,makananBerat
+117,Cindy,wsa 1 lt 8,Nasi Kuning,1,19-Nov-2024,Mamamou,25,makananBerat
+118,Audi,wsa 1 lt 8,Nasi Kuning,1,19-Nov-2024,Mamamou,25,makananBerat
+119,Lisa,wsa 1 lt 8,Nasi Kuning,1,19-Nov-2024,Mamamou,25,makananBerat
+120,Leny,wsa 1 lt 8,Nasi Kuning,1,19-Nov-2024,Mamamou,25,makananBerat
+121,Devi,wsa 1 lt 8,Nasi Kuning,1,19-Nov-2024,Mamamou,25,makananBerat
+122,Vania,wsa 1 lt 8,Nasi Kuning,1,19-Nov-2024,Mamamou,25,makananBerat
+123,Arlia,wsa 1 lt 8,Nasi Kuning,1,19-Nov-2024,Mamamou,25,makananBerat
+124,Ang,WSA2 12b,nasduk pandan ayam kalasan (tidak pakai sambal),1,20-Nov-2024,Vege,20,makananBerat
+125,Ang,WSA2 12b,nasi telur capcai jamur,1,20-Nov-2024,Vege,20,makananBerat
+126,Floretta,WSA2,catering nasi merah,1,20-Nov-2024,Vege,20,makananBerat
+127,Suni,WSA2,nasi + sup tomyam,1,20-Nov-2024,Vege,20,makananBerat
+128,Rifdah,WSA2,nasi telur capcay jamur,1,20-Nov-2024,Vege,20,makananBerat
+129,Paula,WSA2,catering nasi putih,1,20-Nov-2024,Vege,20,makananBerat
+130,Livi,WSA2,nasi 1/2 + sup shabu2 tomyum,1,20-Nov-2024,Vege,20,makananBerat
+131,Dwizky,WSA2,nasi telur capcay jamur,1,20-Nov-2024,Vege,20,makananBerat
+132,Eillen,WSA2,nasi telur capjay jamur,1,20-Nov-2024,Vege,20,makananBerat
+133,Willy,WSA2 12A,Spaghetti carbonara,1,20-Nov-2024,Yosnacks,20,makananBerat
+134,Tina,WSA2,combo sayur asem (extra sambel),1,20-Nov-2024,Yosnacks,20,makananBerat
+135,Giva,WSA2,healthy food,1,20-Nov-2024,Yosnacks,25,makananBerat
+136,Giva,WSA2,siomay,1,20-Nov-2024,Yosnacks,15,snack
+137,Gabby,WSA2 12A,Healthy food,1,20-Nov-2024,Yosnacks,25,makananBerat
+138,MCS,WSA2 12B,Healthy food,1,20-Nov-2024,Yosnacks,25,makananBerat
+139,Dini,WSA2 lt 5,Nasi + chicken cordon Bleu + mix vegetable,1,20-Nov-2024,Yosnacks,30,makananBerat
+140,ANI,WSA2 lt 5,bakmi lebar,2,20-Nov-2024,Yosnacks,15,snack
+141,ANI,WSA2 lt 5,bakso goreng,2,20-Nov-2024,Yosnacks,5,snack
+142,Lia,WSA2,combo nasi tempong sambel banyakan + sayur asem,1,20-Nov-2024,Yosnacks,20,makananBerat
+143,Mus,WSA2,combo nasi tempong sambel banyakan + sayur asem,1,20-Nov-2024,Yosnacks,20,makananBerat
+144,Karlina,WSA2 lt 12A,nasi + dori katsu + mix vegetable + saus sambal,1,20-Nov-2024,Yosnacks,30,makananBerat
+145,Yohana,WSA2 lt 16,nasi sayur asem telor ceplok sambal bawang,1,20-Nov-2024,Yosnacks,20,makananBerat
+146,Yohana,WSA2 lt 16,susu kacang,1,20-Nov-2024,Yosnacks,10,minuman
+147,Floretta,WSA2,healthy food (tanpa nasi),1,20-Nov-2024,Yosnacks,25,makananBerat
+148,Dwizky,WSA2,combo nasi tempong,1,20-Nov-2024,Yosnacks,20,makananBerat
+149,Debby,WSA2,nasi tempong,2,20-Nov-2024,Yosnacks,20,makananBerat
+150,TRY,WSA2 lt 12A,Nasi + Daging sapi maranggi + Telur ceplok/dadar + Sambal bawang,1,20-Nov-2024,Yosnacks,25,makananBerat
+151,Helen,WSA2 lt 11,healthy food 1,1,20-Nov-2024,Yosnacks,20,makananBerat
+152,Helen,WSA2 lt 11,siomay 1,1,20-Nov-2024,Yosnacks,15,snack
+153,ALY,WSA2 lt 12A,Nasi + chicken cordon Bleu + mix vegetable,1,20-Nov-2024,Yosnacks,30,makananBerat
+154,Afni,WSA2,Nasi + Luncheon panggang + Telur dadar + Sambal bawang,1,20-Nov-2024,Yosnacks,20,makananBerat
+155,Bhetrand,WSA2 12A,nasi nuget cabe garam + telor dadar,1,20-Nov-2024,Yosnacks,20,makananBerat
+156,Vin,WSA2,spaghetti carbonara,1,20-Nov-2024,Yosnacks,20,makananBerat
+157,Albert,WSA2 lt 12A,paket cordon bleu,1,20-Nov-2024,Yosnacks,30,makananBerat
+158,She,WSA2 12A,nasi merah + hekeng goreng + telur dadar+sambal bawang,1,20-Nov-2024,Yosnacks,20,makananBerat
+159,Willem,WSA2 12A,nasi chicken cordon bleu,1,20-Nov-2024,Yosnacks,30,makananBerat
+160,Willem,WSA2 12A,ubi goreng renyah,1,20-Nov-2024,Yosnacks,15,snack
+161,Syer,WSA2,combo sayur asem sambel banyakan,1,20-Nov-2024,Yosnacks,20,makananBerat
+162,Matthew,WSA2 12A,nasi nugget cabe garam,1,20-Nov-2024,Yosnacks,20,makananBerat
+163,Stevani,WSA2,hekeng frozen,1,20-Nov-2024,Yosnacks,30,makananBerat
+164,Eva,WSA2 lt 5,Siomay,1,20-Nov-2024,Yosnacks,15,snack
+165,Krisna,WSA2,oat choco,1,20-Nov-2024,Lea Snack,18,snack
+166,Giva,WSA2,choco oatmeal,1,20-Nov-2024,Lea Snack,18,snack
+167,Giva,WSA2,almond oatmeal,1,20-Nov-2024,Lea Snack,18,snack
+168,Lia,WSA2,overnight oatmeal,1,20-Nov-2024,Lea Snack,18,snack
+169,Detta,WSA2,overnight oatmeal,1,20-Nov-2024,Lea Snack,18,snack
+170,Detta,WSA2,jamu kunyit asem,1,20-Nov-2024,Lea Snack,18,snack
+171,Felyn,WSA2,almond oatmeal,1,20-Nov-2024,Lea Snack,18,snack
+172,Yova,WSA2,strawberry oatmeal,1,20-Nov-2024,Lea Snack,18,snack
+173,Yova,WSA2,dimsum,1,20-Nov-2024,Lea Snack,18,snack
+174,LAC,WSA2 12B,choco,1,20-Nov-2024,Lea Snack,18,snack
+175,Gebi,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+176,Kyo,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+177,Vicky,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+178,Vania,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+179,Ci Lauw,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+180,Ciwi,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+181,MCS 12B WSA2,WSA2,salad buah,1,21-Nov-2024,Yumi Food,15,snack
+182,Lita,WSA2,nasi hainam,2,21-Nov-2024,Yumi Food,25,makananBerat
+183,Suni,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+184,Rifdah,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+185,Dwizky,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+186,Vin,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+187,Voni,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+188,Nabila,WSA2,nasi hainam (tanpa timun),1,21-Nov-2024,Yumi Food,25,makananBerat
+189,Mevie,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+190,Mevie,WSA2,salad buah,1,21-Nov-2024,Yumi Food,15,snack
+191,Vira,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+192,Valen,WSA2,nasi hainam,1,21-Nov-2024,Yumi Food,25,makananBerat
+193,Stephany,WSA2,salad buah,2,21-Nov-2024,Yumi Food,15,snack
+194,MCS 12B WSA2,WSA2,Combo ayam ala shihlin,1,21-Nov-2024,Yosnack,20,makananBerat
+195,MCS 12B WSA2,WSA2,Healthy food,1,21-Nov-2024,Yosnack,25,makananBerat
+196,Tere,WSA2,Siomay,1,21-Nov-2024,Yosnack,15,snack
+197,LEL,WSA2,Healthy food,1,21-Nov-2024,Yosnack,25,makananBerat
+198,Chindy,WSA2,Combo ayam ala shihlin,1,21-Nov-2024,Yosnack,20,makananBerat
+199,Anita,WSA2,Siomay,1,21-Nov-2024,Yosnack,15,snack
+200,Matthew,WSA2,Combo ayam ala shihlin,1,21-Nov-2024,Yosnack,20,makananBerat
+201,Matthew,WSA2,siomay isi 5,1,21-Nov-2024,Yosnack,15,snack
+202,ZIA,WSA2,Healthy food,1,21-Nov-2024,Yosnack,25,makananBerat
+203,LC,WSA2,Mie lebar,1,21-Nov-2024,Yosnack,15,makananBerat
+,LC,WSA2,Bakso Goreng,1,21-Nov-2024,Yosnack,5,snack
+204,Floretta,WSA2,Healthy food,1,21-Nov-2024,Yosnack,25,makananBerat
+205,Ana,WSA2,Combo ayam ala shihlin,1,21-Nov-2024,Yosnack,20,makananBerat
+206,Helen,WSA2,susu kacang,1,21-Nov-2024,Yosnack,10,minuman
+207,Helen,WSA2,Combo ayam ala shihlin,1,21-Nov-2024,Yosnack,20,makananBerat
+208,Bhetrand,WSA2,Combo ayam ala shihlin,1,21-Nov-2024,Yosnack,20,makananBerat
+209,Bhetrand,WSA2,siomay isi 5,1,21-Nov-2024,Yosnack,15,snack
+210,EL,WSA2,Ayam ala shihlin tanpa nasi,1,21-Nov-2024,Yosnack,20,makananBerat
+211,Eva,WSA2,Siomay,3,21-Nov-2024,Yosnack,15,snack
+212,Detta,WSA2,Combo ayam ala shihlin,1,21-Nov-2024,Yosnack,20,makananBerat
+213,Ratna,WSA2,Jasuke,1,21-Nov-2024,Yosnack,12,snack
+214,Ratna,WSA2,nasi + sop bening ala KFC + telur ceplok + sambal,1,21-Nov-2024,Yosnack,20,makananBerat
+215,Ratna,WSA2,batagor,1,21-Nov-2024,Yosnack,15,snack
+216,VLH,WSA2,Ayam cabe garam ala carte,1,21-Nov-2024,Yosnack,20,makananBerat
+217,Kevin,WSA2,Combo ayam ala shihlin,1,21-Nov-2024,Yosnack,20,makananBerat
+218,Tina,WSA2,Kwetiau,1,21-Nov-2024,Yosnack,20,makananBerat
+219,Tina,WSA2,bakso goreng,1,21-Nov-2024,Yosnack,5,snack
+220,WLN,WSA2,Siomay,1,21-Nov-2024,Yosnack,15,snack
+221,WLN,WSA2,nasi ayam bakar maranggi telur ceplok,1,21-Nov-2024,Yosnack,20,makananBerat
+222,WLN,WSA2,combo ayam fillet,1,21-Nov-2024,Yosnack,20,makananBerat
+223,Adi,WSA2,Nasi luncheon panggang,1,21-Nov-2024,Yosnack,20,makananBerat
+224,Adi,WSA2,nasi shihlin sambal bawang,1,21-Nov-2024,Yosnack,20,makananBerat
+225,Floretta,WSA2,Catering nasi merah (tanpa semur tahu kentang),1,21-Nov-2024,Vege,18,makananBerat
+,Yova,WSA2,Mango sticky rice,1,21-Nov-2024,Vege,15,snack
+226,Yova,WSA2,Pempek,1,21-Nov-2024,Vege,15,snack
+227,Anas,WSA2,Mango sticky rice,1,21-Nov-2024,Vege,15,snack
+228,Ita,WSA2,Mango sticky rice,1,21-Nov-2024,Vege,15,snack
+229,Dini,WSA2,Mango sticky rice,1,21-Nov-2024,Vege,15,snack
+230,Dwizky,WSA2,Salad sehat,1,21-Nov-2024,Vege,15,snack
+231,ZIA,WSA2,Catering nasi merah,1,21-Nov-2024,Vege,18,makananBerat
+232,Debby,WSA2,Catering nasi putih,1,21-Nov-2024,Vege,18,makananBerat
+233,Tirza,WSA2,Catering nasi putih,1,21-Nov-2024,Vege,18,makananBerat
+234,Velya,WSA2,Mango sticky rice,1,21-Nov-2024,Vege,15,snack
+235,Sylvi,WSA2,"Catering nasi putih (semur ganti sayur brokoli), sambal",1,21-Nov-2024,Vege,18,makananBerat
+236,Eva,WSA2,Nasi Goreng Kecombrang,1,21-Nov-2024,Vege,18,makananBerat
+237,Vanny,WSA2 12B,nasi daun jeruk,1,22-Nov-2024,Caca's,23,makananBerat
+238,Juan,WSA2 12A,nasi daun jeruk,1,22-Nov-2024,Caca's,23,makananBerat
+239,Rafif,WSA2 12A,nasi daun jeruk,1,22-Nov-2024,Caca's,23,makananBerat
+240,Eillen,WSA2 12A,nasi daun jeruk,1,22-Nov-2024,Caca's,23,makananBerat
+241,Krisna,WSA2 12B,nasi daun jeruk,1,22-Nov-2024,Caca's,23,makananBerat
+242,Anthony,WSA2 12B,nasi daun jeruk,1,22-Nov-2024,Caca's,23,makananBerat
+243,Kelvyn,WSA2 12B,nasi daun jeruk,1,22-Nov-2024,Caca's,23,makananBerat
+244,Karlina,WSA2 12A,nasi daun jeruk,1,22-Nov-2024,Caca's,23,makananBerat
+245,Matthew,WSA2 12A,nasi daun jeruk,1,22-Nov-2024,Caca's,23,makananBerat
+246,Bhetrand,WSA2 12A,nasi daun jeruk,1,22-Nov-2024,Caca's,23,makananBerat
+247,Gabby,WSA2 12A,Kuotie Panggang Isi 5,2,22-Nov-2024,Yosnacks,15,snack
+248,MCS,WSA2 12B,Combo Healthy Lada Hitam,1,22-Nov-2024,Yosnacks,20,makananBerat
+249,Wieke,WSA2 12A,Kuotie Panggang Isi 5,1,22-Nov-2024,Yosnacks,15,snack
+250,Dila,WSA2 12A,Kuotie Panggang Isi 5,1,22-Nov-2024,Yosnacks,15,snack
+251,VLH,WSA2 12A,Kuotie Panggang Isi 5,1,22-Nov-2024,Yosnacks,15,snack
+252,ZIA,WSA2 12B,Kuotie Panggang Isi 5,1,22-Nov-2024,Yosnacks,15,snack
+253,Dwizky,WSA2 11,Seblak Pedas Sedang,1,22-Nov-2024,Yosnacks,15,snack
+254,Dwizky,WSA2 11,Combo Teriyaki,1,22-Nov-2024,Yosnacks,20,makananBerat
+255,CYN,WSA2 10,Combo Healthy Teriyaki,1,22-Nov-2024,Yosnacks,25,makananBerat
+256,Viki,WSA2 11,Kuotie Panggang,2,22-Nov-2024,Yosnacks,15,snack
+257,Viki,WSA2 11,Bakso Goreng,1,22-Nov-2024,Yosnacks,5,snack
+258,LEL,WSA2 12B,Healthy Food Teriyaki,1,22-Nov-2024,Yosnacks,25,makananBerat
+259,LEL,WSA2 12B,Kuotie Panggang 1,1,22-Nov-2024,Yosnacks,15,snack
+260,Ailyn,WSA2 12A,Combo Hokben,1,22-Nov-2024,Yosnacks,20,makananBerat
+261,Cicyl,WSA2 5,Kuotie Panggang,1,22-Nov-2024,Yosnacks,15,snack
+262,LC,WSA2 5,Kuotie Panggang,1,22-Nov-2024,Yosnacks,15,snack
+263,Syer,WSA2,Kuotie Panggang,1,22-Nov-2024,Yosnacks,15,snack
+264,Syer,WSA2,Combo Chicken Teriyaki,1,22-Nov-2024,Yosnacks,20,makananBerat
+265,Yulia,WSA2 16,Combo Katsu,2,22-Nov-2024,Yosnacks,20,makananBerat
+266,Galuh,WSA2 12A,Seblak Pedas Sedang,1,22-Nov-2024,Yosnacks,15,snack
+267,Krisna,WSA2 12B,Kuotie Panggang Isi 5,1,22-Nov-2024,Yosnacks,15,snack
+268,Willy,WSA2 12A,Kuotie Panggang Isi 5,1,22-Nov-2024,Yosnacks,15,snack
+269,Willy,WSA2 12A,Bakmi Lebar,1,22-Nov-2024,Yosnacks,15,makananBerat
+270,Krisna,WSA2 12B,Kuotie Frozen Isi 10,1,22-Nov-2024,Yosnacks,30,makananBerat
+271,She,WSA2 12A,Combo Katsu (Ganti Nasi Merah),1,22-Nov-2024,Yosnacks,20,makananBerat
+272,Stevani,WSA2 16,Hekeng Frozen,1,22-Nov-2024,Yosnacks,30,snack
+273,Stevani,WSA2 16,Kuotie Frozen,1,22-Nov-2024,Yosnacks,30,snack
+274,Adi,WSA2 12A,Combo Katsu,1,22-Nov-2024,Yosnacks,20,makananBerat
+275,Albert,WSA2 12A,Combo Hokben,1,22-Nov-2024,Yosnacks,20,makananBerat
+276,Suwito,WSA2 12B,Kuotie Panggang Isi 5,1,22-Nov-2024,Yosnacks,15,snack
+277,Suwito,WSA2 12B,Hekeng Goreng,1,22-Nov-2024,Yosnacks,15,snack
+278,Suwito,WSA2 12B,Seblak Pedas Sedang,1,22-Nov-2024,Yosnacks,15,snack
+279,Suwito,WSA2 12B,Combo Katsu,1,22-Nov-2024,Yosnacks,20,makananBerat
+280,Ani,WSA2 5,Cordon Blu Tanpa Nasi,1,22-Nov-2024,Yosnacks,30,makananBerat
+281,Ani,WSA2 5,Seblak Pedas,1,22-Nov-2024,Yosnacks,15,snack
+282,WLN,WSA2,Kuotie Panggang,1,22-Nov-2024,Yosnacks,15,snack
+283,WLN,WSA2,Combo Healthy Food Lada Hitam,1,22-Nov-2024,Yosnacks,20,makananBerat
+284,NCW,WSA2 12A,Nasi Luncheon Goreng,1,22-Nov-2024,Yosnacks,20,makananBerat
+285,Audrey,WSA2,Es teh Less Sugar,2,22-Nov-2024,Mamamou,8,minuman
+286,Darius,WSA2,Es teh No Sugar,2,22-Nov-2024,Mamamou,8,minuman
+287,Bernard,WSA2,Es teh Less Sugar,2,22-Nov-2024,Mamamou,8,minuman
+288,Priskila,WSA2,Es teh Normal Sugar,1,22-Nov-2024,Mamamou,8,minuman
+289,Leny,WSA2,Es teh Less Sugar,2,22-Nov-2024,Mamamou,8,minuman
+290,Devi,WSA2,Es teh Normal Sugar,1,22-Nov-2024,Mamamou,8,minuman
+291,Lisa,WSA2,Es teh Normal Sugar,1,22-Nov-2024,Mamamou,8,minuman
+292,Hilene,WSA2,Es teh Normal Sugar,1,22-Nov-2024,Mamamou,8,minuman
+293,Natali,WSA2,Es teh Less Sugar,2,22-Nov-2024,Mamamou,8,minuman
+294,Krisna,WSA2,Es teh Less Sugar,1,22-Nov-2024,Mamamou,8,minuman
+295,Leli,WSA2,Es teh Less Sugar,1,22-Nov-2024,Mamamou,8,minuman
+296,Syelly,WSA2,Es teh Normal Sugar,2,22-Nov-2024,Mamamou,8,minuman
+297,Vanny,WSA2,Es teh Less Sugar,1,22-Nov-2024,Mamamou,8,minuman
+298,Audi,WSA2,Es teh Normal Sugar,2,22-Nov-2024,Mamamou,8,minuman
+299,Chindy,WSA2,Es teh Less Sugar,1,22-Nov-2024,Mamamou,8,minuman
+300,Cicyl,WSA2,Es teh No Sugar,1,22-Nov-2024,Mamamou,8,minuman
+301,Dini,WSA2 lt. 5,Paket Nasi Soto Daging (Nasi ganti nasi merah),1,22-Nov-2024,Vege,18,makananBerat
+302,ZIA,WSA2 12B,Catering nasi merah,1,22-Nov-2024,Vege,18,makananBerat
